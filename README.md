@@ -15,9 +15,11 @@ The dashboard draws data from two primary sources:
 2. MySQL Database: Extracts Facts and Dimensions for all departments from a MySQL database.
 
 
+
 **Data Model**
 
 <img width="803" height="807" alt="Data Model" src="https://github.com/user-attachments/assets/95e9bb8e-8b16-45b6-adbb-0bb0f0089be5" />
+
 
 
 **Objective:**
@@ -26,9 +28,11 @@ The dashboard draws data from two primary sources:
 To Deploy an advanced analytics solution for AtliQ Hardware to enhance data analysis efficiency. which will offer comprehensive insights tailored to meet the needs of business leaders across various domains, such as Sales, Finance, Marketing, Supply Chain, and Execution.
 
 
+
 **Finance View**
 
 <img width="1450" height="808" alt="finance view" src="https://github.com/user-attachments/assets/3c062db3-1b8b-48bf-83da-f3f06beb5001" />
+
 
 
 **Sales View**
@@ -36,18 +40,23 @@ To Deploy an advanced analytics solution for AtliQ Hardware to enhance data anal
 <img width="1450" height="808" alt="sales view" src="https://github.com/user-attachments/assets/c20094d3-2c4a-4508-8f24-b1befb1979f5" />
 
 
+
 **Marketing View**
 
 <img width="1448" height="810" alt="marketing view" src="https://github.com/user-attachments/assets/26157cd2-7a31-4372-9910-303d76840da3" />
+
 
 
 **Supply Chain View**
 
 <img width="1436" height="811" alt="supply chain view" src="https://github.com/user-attachments/assets/007405ec-d6e9-4ce4-82fa-ff1b0e33dde8" />
 
+
+
 **Executive View**
 
 <img width="1447" height="808" alt="executive view" src="https://github.com/user-attachments/assets/c6af5ce8-e25d-458e-97f9-7607145eae99" />
+
 
 
 **Conclusion:**
