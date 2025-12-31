@@ -13,3 +13,6 @@ The dashboard draws data from two primary sources:
 **Objective:**
 
 To Deploy an advanced analytics solution for AtliQ Hardware to enhance data analysis efficiency. which will offer comprehensive insights tailored to meet the needs of business leaders across various domains, such as Sales, Finance, Marketing, Supply Chain, and Execution.
+
+**Finance View:**
+<img width="1450" height="808" alt="finance view" src="https://github.com/user-attachments/assets/3c062db3-1b8b-48bf-83da-f3f06beb5001" />
