@@ -27,6 +27,9 @@ The dashboard draws data from two primary sources:
 
 To Deploy an advanced analytics solution for AtliQ Hardware to enhance data analysis efficiency. which will offer comprehensive insights tailored to meet the needs of business leaders across various domains, such as Sales, Finance, Marketing, Supply Chain, and Execution.
 
+**Home Page**
+
+<img width="1320" height="746" alt="image" src="https://github.com/user-attachments/assets/4628893e-4bae-4e34-89cf-1ccf40c55e11" />
 
 
 **Finance View**
@@ -37,7 +40,7 @@ To Deploy an advanced analytics solution for AtliQ Hardware to enhance data anal
 
 **Sales View**
 
-<img width="1450" height="808" alt="sales view" src="https://github.com/user-attachments/assets/c20094d3-2c4a-4508-8f24-b1befb1979f5" />
+<img width="1342" height="747" alt="image" src="https://github.com/user-attachments/assets/a1cd7c64-7a76-450c-8f4f-66f98c51e94a" />
 
 
 
