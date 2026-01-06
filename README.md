@@ -1,4 +1,4 @@
-**Live Dashboard:** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNDE5ZjVkYWUtNzVhMC00NzZhLWI0ZjgtNDFlNzhhMGRmZjNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**Live Dashboard:** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZWE3YTA4MzItNDJiOC00ZWVhLTg1MDQtNzRlOTg0M2ZlZjc2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 **Problem Statement:**
@@ -26,6 +26,18 @@ The dashboard draws data from two primary sources:
 
 
 To Deploy an advanced analytics solution for AtliQ Hardware to enhance data analysis efficiency. which will offer comprehensive insights tailored to meet the needs of business leaders across various domains, such as Sales, Finance, Marketing, Supply Chain, and Execution.
+
+**Home View**
+
+In Home view, all the views button will be available. User will land on specific view page by clicking the button
+
+Info
+Finance View
+Sales View
+Marketing View
+Supply chain View
+Executive View
+Support
 
 **Home Page**
 
