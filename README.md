@@ -18,6 +18,13 @@ The dashboard draws data from two primary sources:
 
 **Data Model**
 
+•	Data modeling plays a vital role and is considered as the basement of report. All the visuals will be built upon the data model.
+
+•	Poor data modeling affects the overall performance of the report.
+
+•	In this project, we have followed Snowfall data modeling method.
+
+
 <img width="803" height="807" alt="Data Model" src="https://github.com/user-attachments/assets/95e9bb8e-8b16-45b6-adbb-0bb0f0089be5" />
 
 
