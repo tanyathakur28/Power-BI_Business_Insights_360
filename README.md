@@ -31,19 +31,20 @@ To Deploy an advanced analytics solution for AtliQ Hardware to enhance data anal
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
-Info
+•	Info
 
-Finance View
+•	Finance View
 
-Sales View
+•	Sales View
 
-Marketing View
+•	Marketing View
 
-Supply chain View
+•	Supply chain View
 
-Executive View
+•	Executive View
 
-Support
+•	Support
+
 
 **Home Page**
 
